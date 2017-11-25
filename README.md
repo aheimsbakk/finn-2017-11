@@ -17,7 +17,7 @@ Finne anagram i fil med et ord på hver linje.
 
 ## Resultat
 
-    $ ./anagram.py ~/Downloads/eventyr.txt 
+    $ ./anagram.py eventyr.txt 
     bar -> bra
     bra -> bar
     truet -> turte
