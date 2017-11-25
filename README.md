@@ -1,4 +1,4 @@
-# Finn.no jobb anonse 2017-11
+# Finn.no jobbannonse 2017-11
 
 ## [Annonse](https://www.digi.no/storylabs/karriere-og-utdanning/annonse-hva-sier-ditt-utvikler-instinkt-at-du-skal-gjore-her/408527)
 
