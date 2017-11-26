@@ -4,6 +4,39 @@
 
 ## Oppgave
 
+Her er en liten programmeringsnøtt. Du må gjerne legge ved en løsning om du søker hos oss (men det er ikke noe krav).
+
+Anagram
+Fila eventyr.txt er en ordliste som inneholder ett ord pr linje. Oppgaven består i å lage et program som leser en fil og som finner alle ord i filen som har ett eller flere anagrammer i lista, og som lister opp disse sammen med det opprinnelige ordet. Merk deg at ikke alle ordene har anagrammer. Du skal kun finne ettordsanagrammer.
+Et anagram er et ord eller et uttrykk som er satt sammen ved å stokke om
+bokstavene i et annet ord eller uttrykk (http://no.wikipedia.org/wiki/Anagram)
+Hver linje i resultatet skal inneholde de ordene som er anagrammer av
+hverandre. For eksempel slik
+akte, teak, kate
+aldri, arild
+aller, ralle
+alt, tal
+andre, rande, denar, ander
+....
+
+Vi har mest peiling på følgende språk:
+- Java
+- JavaScript
+- Ruby
+- Scala
+- Objective-C
+- Python
+Men overrask oss gjerne med et annet :-)
+
+Hint
+En måte å finne ut om to ord er anagrammer, er å sortere bokstavene i ordet og så sammenlikne den sorterte versjonen.
+F. eks:
+•	akte -> aekt
+•	teak -> aekt
+Disse ordene er anagrammer av hverandre
+
+## Løsning
+
 Finne anagram i fil med et ord på hver linje.
 
     $ ./anagram.py -h
