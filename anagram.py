@@ -45,7 +45,7 @@ def print_anagrams(anagram_file):
 if __name__ == "__main__":
     usage = """%prog [-h] FILE"""
     description = """Print all permutations of anagrams in FILE."""
-    version= '%prog 0.1'
+    version = '%prog 0.1'
 
     p = optparse.OptionParser(usage=usage, version=version, description=description)
     o, args = p.parse_args()
