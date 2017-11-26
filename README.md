@@ -31,8 +31,10 @@ Men overrask oss gjerne med et annet :-)
 Hint
 En måte å finne ut om to ord er anagrammer, er å sortere bokstavene i ordet og så sammenlikne den sorterte versjonen.
 F. eks:
-•	akte -> aekt
-•	teak -> aekt
+
+- akte -> aekt
+- teak -> aekt
+
 Disse ordene er anagrammer av hverandre
 
 ## Løsning
